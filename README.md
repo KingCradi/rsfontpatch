@@ -1,5 +1,5 @@
 # rsfontpatch
-**Ruby/Sapphire font patch for Emerald**
+**Ruby/Sapphire font patch for Emerald BPEE**
 
 - This font overwrites the existing one, so it's safe to add even in a modified Emerald ROM
 
